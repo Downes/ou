@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>No title provided.</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Climate change: island life in a volatile world</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>1 Dividing the planet</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_01.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>1 Dividing the planet</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_01.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Activity 1</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_01.xhtml#Activity-1" />  
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>Activity 1</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_01.xhtml#Activity-1" />  
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>Question</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_01.xhtml#Question" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>Defining the enhanced greenhouse effect</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_01.xhtml#Defining-the-enhanced-greenhouse-effect" />  
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>Course aims</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_01.xhtml#Course-aims" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint9" playOrder="7">
+      <navLabel>
+        <text>2 Island territories, ocean flows</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_02.xhtml" />  
+      <navPoint id="navPoint10" playOrder="7">
+        <navLabel>
+          <text>2 Island territories, ocean flows</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_02.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="8">
+        <navLabel>
+          <text>2.1 Issues of responsibility</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_02.xhtml#2.1-Issues-of-responsibility" />  
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="9">
+        <navLabel>
+          <text>2.2 Climate change in a globalised world</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_02.xhtml#2.2-Climate-change-in-a-globalised-world" />  
+        <navPoint id="navPoint13" playOrder="9">
+          <navLabel>
+            <text>2.2 Climate change in a globalised world</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#2.2-Climate-change-in-a-globalised-world" />  
+        </navPoint>
+        <navPoint id="navPoint14" playOrder="10">
+          <navLabel>
+            <text>Activity 2</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#Activity-2" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="11">
+        <navLabel>
+          <text>2.3 Divisions that matter: thinking through territories</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_02.xhtml#2.3-Divisions-that-matter:-thinking-through-territories" />  
+        <navPoint id="navPoint16" playOrder="11">
+          <navLabel>
+            <text>2.3 Divisions that matter: thinking through territories</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#2.3-Divisions-that-matter:-thinking-through-territories" />  
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="12">
+          <navLabel>
+            <text>Activity 3</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#Activity-3" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="13">
+        <navLabel>
+          <text>2.4 Worlds in motion: the importance of flows</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_02.xhtml#2.4-Worlds-in-motion:-the-importance-of-flows" />  
+        <navPoint id="navPoint19" playOrder="13">
+          <navLabel>
+            <text>2.4 Worlds in motion: the importance of flows</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#2.4-Worlds-in-motion:-the-importance-of-flows" />  
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="14">
+          <navLabel>
+            <text>Activity 4</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#Activity-4" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="15">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_02.xhtml#Summary" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint22" playOrder="16">
+      <navLabel>
+        <text>3 Settling islands</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_03.xhtml" />  
+      <navPoint id="navPoint23" playOrder="16">
+        <navLabel>
+          <text>3 Settling islands</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_03.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="17">
+        <navLabel>
+          <text>3.1 Voyages of discovery and settlement</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_03.xhtml#3.1-Voyages-of-discovery-and-settlement" />  
+        <navPoint id="navPoint25" playOrder="17">
+          <navLabel>
+            <text>3.1 Voyages of discovery and settlement</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_03.xhtml#3.1-Voyages-of-discovery-and-settlement" />  
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="18">
+          <navLabel>
+            <text>Activity 5</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_03.xhtml#Activity-5" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint27" playOrder="19">
+        <navLabel>
+          <text>3.2 Migrations of life</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_03.xhtml#3.2-Migrations-of-life" />  
+        <navPoint id="navPoint28" playOrder="19">
+          <navLabel>
+            <text>3.2 Migrations of life</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_03.xhtml#3.2-Migrations-of-life" />  
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="20">
+          <navLabel>
+            <text>Activity 6</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_03.xhtml#Activity-6" />  
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="21">
+          <navLabel>
+            <text>Defining colonisation</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_03.xhtml#Defining-colonisation" />  
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="22">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_03.xhtml#Summary" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint32" playOrder="23">
+      <navLabel>
+        <text>4 Volatile worlds</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_04.xhtml" />  
+      <navPoint id="navPoint33" playOrder="23">
+        <navLabel>
+          <text>4 Volatile worlds</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_04.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="24">
+        <navLabel>
+          <text>4.1 When climate changes</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_04.xhtml#4.1-When-climate-changes" />  
+        <navPoint id="navPoint35" playOrder="24">
+          <navLabel>
+            <text>4.1 When climate changes</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#4.1-When-climate-changes" />  
+        </navPoint>
+        <navPoint id="navPoint36" playOrder="25">
+          <navLabel>
+            <text>Activity 7</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#Activity-7" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint37" playOrder="26">
+        <navLabel>
+          <text>4.2 Shifting ground</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_04.xhtml#4.2-Shifting-ground" />  
+        <navPoint id="navPoint38" playOrder="26">
+          <navLabel>
+            <text>4.2 Shifting ground</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#4.2-Shifting-ground" />  
+        </navPoint>
+        <navPoint id="navPoint39" playOrder="27">
+          <navLabel>
+            <text>Defining earth science</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#Defining-earth-science" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="28">
+        <navLabel>
+          <text>4.3 Dilemmas of climate change</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_04.xhtml#4.3-Dilemmas-of-climate-change" />  
+        <navPoint id="navPoint41" playOrder="28">
+          <navLabel>
+            <text>4.3 Dilemmas of climate change</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#4.3-Dilemmas-of-climate-change" />  
+        </navPoint>
+        <navPoint id="navPoint42" playOrder="29">
+          <navLabel>
+            <text>Activity 8</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#Activity-8" />  
+        </navPoint>
+        <navPoint id="navPoint43" playOrder="30">
+          <navLabel>
+            <text>Summary</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#Summary" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint44" playOrder="31">
+      <navLabel>
+        <text>5 Conclusion</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_05.xhtml" />  
+    </navPoint>
+  </navMap>
+</ncx>
