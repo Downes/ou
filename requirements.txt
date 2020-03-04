@@ -1,0 +1,11 @@
+sphinx
+nbsphinx
+ghp-import
+
+ipykernel
+jupytext
+
+ipywidgets
+
+sphinxcontrib-bibtex
+sphinxcontrib-svg2pdfconverter
